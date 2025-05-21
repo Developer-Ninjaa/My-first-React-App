@@ -1,0 +1,6 @@
+React + Vite is more fast than CRA (create-react-app) 
+CRA is older version of react
+Nowadays, React + Vite is used for modern web apps.
+Vite is a modern frontend build tool that fastens the development server and hot module replacement
+npm create vite@latest
+npm create vite@latest my_app -- --template react
